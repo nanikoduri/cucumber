@@ -33,6 +33,7 @@ public class Selenium_Test {
 	      	        // Close the driver
 	         	          
 	        driver.quit();
+	        System.out.println("ThANK YOU");
 	 
 		}
 
